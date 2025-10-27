@@ -1,4 +1,3 @@
-# server.py
 from flask import Flask
 import threading
 import os
